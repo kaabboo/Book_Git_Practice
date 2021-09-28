@@ -1,0 +1,7 @@
+This is the first page of chapter 1
+
+this is our book
+
+Crated a new project
+Ctratd a new packege called chapter1
+Created z new text file called page 1
